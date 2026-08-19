@@ -2,7 +2,7 @@
 # hi, i'm sean 👋
 
 [![Profile Views](https://komarev.com/ghpvc/?username=seanmutunhire29&color=blueviolet)](https://github.com/seanmutunhire29)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seanmutunhire/)
 [![Portfolio](https://img.shields.io/badge/Shamva%20Innovators-16213E?style=for-the-badge&logo=googlechrome&logoColor=white)](https://shamvainnovators.org)
 
 ---
