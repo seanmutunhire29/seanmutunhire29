@@ -57,5 +57,5 @@ Outside the classroom, I run **Shamva Innovators**, a program teaching AI engine
 
 ## let's connect
 
-[![LinkedIn](https://img.shields.io/badge/-Sean%20Mutunhire-0077B5?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE)
+[![LinkedIn](https://img.shields.io/badge/-Sean%20Mutunhire-0077B5?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/seanmutunhire/)
 [![Website](https://img.shields.io/badge/-Shamva%20Innovators-16213E?style=flat-square&logo=googlechrome&logoColor=white)](https://shamvainnovators.org)
